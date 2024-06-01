@@ -20,11 +20,17 @@ The website features:
 You can view the live website here: [https://timiborisov.github.io/Tihomir-Borisov/](https://timiborisov.github.io/Tihomir-Borisov/)
 
 ## Installation
-If you want to run the website locally or make changes to it, follow these steps:
+I used Visual Studio Code to Format and Push Changes to GitHub:
 
-1. Clone the repository:
-   ```sh
-   git clone https://timiborisov.github.io/Tihomir-Borisov/
+#1 Select Template: Chose an HTML template fitting your project's needs. I used Template Website by [https://html5up.net/](https://html5up.net/)
+
+#2 Customize in VS Code: Edited and tailored the template using Visual Studio Code. Add your content 
+
+#3 Preview Locally: Tested changes locally in a web browser.
+
+#4 Push to GitHub: Uploaded the customized template to a GitHub repository. [https://github.com/TimiBorisov/Tihomir-Borisov](https://github.com/TimiBorisov/Tihomir-Borisov)
+
+5# Enable GitHub Pages: Enabled GitHub Pages for online hosting.
 
 ## File Structure:
    
