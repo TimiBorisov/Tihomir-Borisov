@@ -28,10 +28,12 @@ If you want to run the website locally or make changes to it, follow these steps
 
 ## File Structure:
    
-- index.html: The main HTML file.
-- css/: Directory containing CSS files.
-- js/: Directory containing JavaScript files.
-- images/: Directory containing image files.
+- assets/           # Directory containing assets (e.g., CSS, JavaScript)
+  - images/         # Directory containing image files
+- README.md         # README file containing project information
+- elements.html     # HTML file for elements
+- generic.html      # HTML file for generic content
+- index.html        # Main HTML file
 
 Contributing
 Contributions are welcome! If you have suggestions or improvements. 
