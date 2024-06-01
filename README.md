@@ -37,10 +37,12 @@ I used Visual Studio Code to Format and Push Changes to GitHub:
 - generic.html      # HTML file for generic content
 - index.html        # Main HTML file
 
-Contributing
+Contributing:
+
 Contributions are welcome! If you have suggestions or improvements. 
 
-Contact
+Contact:
+
 For any questions or comments, please contact me at your borisov.tihomir@gmail.com
 
 Project Link: 
