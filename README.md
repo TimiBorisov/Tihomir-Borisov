@@ -26,7 +26,8 @@ If you want to run the website locally or make changes to it, follow these steps
    ```sh
    git clone https://timiborisov.github.io/Tihomir-Borisov/
 
-   File Structure
+## File Structure
+   
 index.html: The main HTML file.
 css/: Directory containing CSS files.
 js/: Directory containing JavaScript files.
