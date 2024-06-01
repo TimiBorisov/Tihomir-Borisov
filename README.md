@@ -43,7 +43,7 @@ Contributions are welcome! If you have suggestions or improvements.
 
 Contact:
 
-For any questions or comments, please contact me at your borisov.tihomir@gmail.com
+For any questions or comments, please contact me at borisov.tihomir@gmail.com
 
 Project Link: 
 
