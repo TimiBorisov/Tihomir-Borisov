@@ -1,5 +1,4 @@
 # HTML Template Website for AWS Resume API Challenge
-  Template Website by [https://html5up.net/](https://html5up.net/)
 
 
 ## Description
@@ -40,3 +39,5 @@ Contact
 For any questions or comments, please contact me at your borisov.tihomir@gmail.com
 
 Project Link: 
+
+  Template Website by [https://html5up.net/](https://html5up.net/)
