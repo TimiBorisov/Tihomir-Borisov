@@ -1,4 +1,4 @@
-## This site is hosted on GitHub Pages, static websites directly from a My GitHub repository.
+## This site is hosted on GitHub Pages, static website directly from a My GitHub repository.
 
 ## Content of the HTML Website
 The website features:
