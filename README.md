@@ -1,7 +1,4 @@
-# HTML Template Website for AWS Resume API Challenge
-
-## Description of Usage
-I will use this for the AWS Lambda Resume API Challenge. This project provides an HTML template that will be deployed and hosted on GitHub Pages. The main purpose of this repository is to serve as the frontend for the AWS Lambda Resume API Challenge. In this challenge, I will have the opportunity to build and deploy a serverless API using AWS Lambda and DynamoDB, integrated with GitHub Actions. The primary goal? Construct an API that can serve resume data in JSON format.
+## This site is hosted on GitHub Pages, a service provided by GitHub to host static websites directly from a GitHub repository.
 
 ## Content of the HTML Website
 The website features:
